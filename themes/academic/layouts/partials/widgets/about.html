@@ -85,6 +85,23 @@
       </div>
       {{ end }}
 
+      {{ with $page.Params.experiences }}
+      <div class="col-sm-12">
+        <h3>{{ i18n "experience" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .workplace }}
+          <li class="col-sm-6">
+            <i class="fa-li fa fa-briefcase"></i>
+            <div class="description">
+              <p class="course">{{ .company }}</p>
+              <p class="institution">{{ .position }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
     </div>
   </div>
 </div>
