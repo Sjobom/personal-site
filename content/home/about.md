@@ -25,20 +25,25 @@ weight = 5
   institution = "KTH Royal Institute of Technology"
 
 # List your qualifications (such as academic degrees).
-[[experience.courses]]
-  organization = "MSc in Computer Science, 2017-2019"
-  institution = "KTH Royal Institute of Technology"
+[[experiences.workplace]]
+  company = "SOKIGO, Stockholm, 2017"
+  position = "Software Engineering Intern"
 
-[[experience.courses]]
-  organization = "BSc in Information Technology, 2014-2017"
-  institution = "KTH Royal Institute of Technology"
+[[experiences.workplace]]
+  company = "TDC, Stockholm, fall 2015"
+  position = "NOC Technician"
+
+[[experiences.workplace]]
+company = "Ryds Bilglas, Sundsvall, 2014, 2015, 2016"
+position = "Operations- and Support Technician"
+
  
 +++
 
 # Biography
 
-I am Anders Sjöbom, a Computer Science student at KTH, Stockholm with a passion for software engineering and helping people with new technologies. 
+I am Anders Sjöbom, a Computer Science student at KTH, Stockholm with a passion for software engineering and helping people with new technologies.
 
 I have a company where I do software development on the side of my studies. [Contact me](mailto:asjobom@kth.se) if you have a business proposal!
 
-In my free time I love being in the nature hiking, cross-country skiing or running [orienteeering](https://en.wikipedia.org/wiki/Orienteering).
+In my free time I love being in the nature hiking, cross-country skiing or running [orienteering](https://en.wikipedia.org/wiki/Orienteering).
