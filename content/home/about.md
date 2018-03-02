@@ -42,8 +42,8 @@ position = "Operations- and Support Technician"
 
 # Biography
 
-I am Anders Sjöbom, a Computer Science student at KTH, Stockholm with a passion for software engineering and helping people with new technologies.
+I am Anders Sjöbom, a Computer Science student at KTH, Stockholm with a great passion for software engineering and helping people with new technologies.
 
-I have a company where I do software development on the side of my studies. [Contact me](mailto:asjobom@kth.se) if you have a business proposal!
+I have a company where I do software development besides my studies. [Contact me](mailto:asjobom@kth.se) if you have a business proposal!
 
 In my free time I love being in the nature hiking, cross-country skiing or running [orienteering](https://en.wikipedia.org/wiki/Orienteering).
