@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Anders Sjöbom</title>
+    <link>https://sjobom.github.io/home/</link>
+    <description>Recent content in Homes on Anders Sjöbom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sjobom.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://sjobom.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjobom.github.io/home/about/</guid>
+      <description>Biography I am Anders Sjöbom, a Computer Science student at KTH, Stockholm with a great passion for software engineering and helping people with new technologies.
+I have a company where I do software development besides my studies. Contact me if you have a business proposal!
+In my free time I love being in the nature hiking, cross-country skiing or running orienteering.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://sjobom.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjobom.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://sjobom.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjobom.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sjobom.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjobom.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
