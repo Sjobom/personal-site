@@ -3,7 +3,7 @@ This is a personal site for Anders Sjöbom based on the Hugo Academic Framework.
 
 The site is published on Github Pages https://github.com/Sjobom/Sjobom.github.io.
 
-Can be reached via https://sjobom.github.io or https://anderssjobom.se.
+Can be reached via https://sjobom.github.io.
 
 # How to add new material
 To generate  new pages or update info:
