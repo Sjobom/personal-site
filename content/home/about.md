@@ -26,6 +26,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[experiences.workplace]]
+  company = "Attentec, Stockholm, 2019"
+  position = "Master Thesis"
+
+[[experiences.workplace]]
+  company = "Attentec, Stockholm, 2018"
+  position = "Software Engineering Intern"
+
+[[experiences.workplace]]
   company = "SOKIGO, Stockholm, 2017"
   position = "Software Engineering Intern"
 
